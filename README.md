@@ -24,9 +24,9 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 1. Clone este repositório:
 
-    bash
-    git clone https://github.com/ZiroGl/Aplicativo-agenda.git*
-
+   ```bash
+    git clone https://github.com/ZiroGl/Aplicativo-agenda.git
+     ```
     
 
 2. Abra o projeto no Android Studio.
@@ -35,7 +35,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ## 📂 Estrutura do Projeto
 
-bash
+```bash
 ├── app
 │   ├── src
 │   │   ├── main
@@ -56,7 +56,7 @@ bash
 │   └── build.gradle               # Configuração do Gradle
 └── README.md                      # Este arquivo
 
-
+```
 
  
 # 🎨 Design e Prototipagem
@@ -67,44 +67,42 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
 # 🖥️ Telas do Aplicativo
  
-## 1. *Tela Login*
+## 1. *Tela Cadastro*
  <br> <h3> Tela Projeto</h3>
-Na tela principal, o usuário insere seu email e senha, e o app libera o acesso a tela da cardapio caso o usuário já estaje cadastrado no sistema.
+Na tela login, o usuário insere seu nome, email, senha e telefone, o app registra essas informações no banco de dados.
 
 
-<img src="https://github.com/user-attachments/assets/eb0c0fb7-bdd6-4b42-80b8-32f39a0f77bd" width="260" height="500"/>
+<img src="https://github.com/user-attachments/assets/b901b683-78b8-4ea2-8f4b-db4a1e9d0190" width="260" height="500"/>
 
 
-## 2. *Tela Cadastro*
+## 2.*Tela de lista*
 
-Na tela de casdasto, o usuário insere seu nome, email, senha e telefone e o app cadastra o usuário no sistema.
-
-
-<img src="https://github.com/user-attachments/assets/4a87b00b-1a06-483b-a248-7c64efd0af0e" width="260" height="500"/>
-
-
-## 3.*Tela Cardápio Hamburger*
-
-Na tela de cardápio, o usuário visualiza as opções de hamburgers para o consumo e tem a opção de ver as bebidas ou voltar para a página anterior. 
+Na tela de lista, o usuário visualiza os cadastros realizados. 
  
-<img src="https://github.com/user-attachments/assets/97dfab70-6fca-491a-8fbe-7bfe7ddde6c7" width="260" height="500"/>
 
-## 4.*Tela Cardápio Bebidas*
+<img src="https://github.com/user-attachments/assets/46628179-7119-4227-a083-000bab17d408" width="260" height="500"/>
 
-Na tela de cardápio, o usuário visualiza as opções de bebidas para o consumo e tem a opção de voltar para a página anterior. 
+## 3.*Menu alterar cadastro*
 
-<img src="https://github.com/user-attachments/assets/c5a47591-1453-4aff-be0a-aba853af6482" width="260" height="500"/>
+No Menu alterar cadastro, o usuário tem a possibilidade de excluir ou atualizar seu cadastro. 
 
 
+<img src="https://github.com/user-attachments/assets/0da6feb6-68ee-4f36-b063-fac406932a1c" width="500" height="260"/>
+
+
+## 4.*Menu alterar cadastro*
+
+No Menu alterar cadastro, o usuário tem a possibilidade de excluir ou atualizar seu cadastro. 
+
+
+<img src="https://github.com/user-attachments/assets/82504e5a-6479-4389-b6ca-45aac885ef59" width="500" height="260"/>
  
 # 📄 Licença
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LaurenAzevedo/exemplo-readme/blob/main/LICENSE)   *criar
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ZiroGl/Aplicativo-agenda/blob/main/LICENSE)   
 
 ## 👨‍💻 Desenvolvedor 
 
-*Lauren de Azevedo Steinhoefel* - Desenvolvedor - [GitHub](https://github.com/LaurenAzevedo) *teu git
+*Gabriel Lucas Garcia* - Desenvolvedor - [GitHub](https://github.com/ZiroGl) *teu git
 
-## 📂 LinkedIn 
 
-*LinkedIn* - Perfil - (www.linkedin.com/in/lauren-de-azevedo-steinhoefel-67a398304). *teu linkedIn
