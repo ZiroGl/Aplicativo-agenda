@@ -39,18 +39,18 @@ Siga os passos abaixo para rodar o projeto localmente:
 ├── app
 │   ├── src
 │   │   ├── main
-│   │   │   ├── java/com/example/imccalculator
+│   │   │   ├── java/br/ulbra/AppAgendaATAT
 │   │   │  
-│   ├── MainActivity.java         #Atividade principal 
+│   ├── MainActivity.java         
 │   │   │   ├──res
 │   │   │  
 │   ├── layout
 │   │   │  
-│   │   ├── activity_main.xml      #Layout da tela principal
+│   │   ├── activity_main.xml      
 │   │   │  
 │   └── values
 │   │   │  
-│       ├──strings.xml                        # Strings usadas no app
+│       ├──strings.xml                        
 │   │   │  
 │       ├── colors.xml             # Cores definidas no projeto
 │   └── build.gradle               # Configuração do Gradle
