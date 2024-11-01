@@ -96,6 +96,10 @@ No Menu alterar cadastro, o usuário tem a possibilidade de excluir ou atualizar
 
 
 <img src="https://github.com/user-attachments/assets/82504e5a-6479-4389-b6ca-45aac885ef59" width="500" height="260"/>
+
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/Aplicativo-agenda/blob/main/AppAgenda.apk"> Download APK </a>
  
 # 📄 Licença
 
